@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Manqoba\Downloads\PROJECTS\autograd_engine\autograd_engine\tests\test_autograd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Manqoba\Downloads\PROJECTS\autograd_engine\autograd_engine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{85BDB6B0-4F3C-31EC-A77B-EF5570BD1B6F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

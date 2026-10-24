@@ -1,0 +1,6 @@
+C:/Users/Manqoba/Downloads/PROJECTS/autograd_engine/autograd_engine/build/CMakeFiles/autograd.dir
+C:/Users/Manqoba/Downloads/PROJECTS/autograd_engine/autograd_engine/build/CMakeFiles/autograd_demo.dir
+C:/Users/Manqoba/Downloads/PROJECTS/autograd_engine/autograd_engine/build/CMakeFiles/autograd_tests.dir
+C:/Users/Manqoba/Downloads/PROJECTS/autograd_engine/autograd_engine/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Manqoba/Downloads/PROJECTS/autograd_engine/autograd_engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Manqoba/Downloads/PROJECTS/autograd_engine/autograd_engine/build/CMakeFiles/ZERO_CHECK.dir
